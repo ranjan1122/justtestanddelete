@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.java.junit.MathUtilTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.035 s <<< FAILURE! - in com.java.junit.MathUtilTest
+testPositive  Time elapsed: 0.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: This is the internal message for add event ==> expected: <2> but was: <4>
+	at com.java.junit.MathUtilTest$MyNestedTest.testPositive(MathUtilTest.java:36)
+
